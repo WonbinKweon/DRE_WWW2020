@@ -1,3 +1,3 @@
-# Deep Rating Elicitation for New Users in Collaborative Filtering (WWW 2020 short)
+# Deep Rating Elicitation for New Users in Collaborative Filtering (WWW 2020)
 
 This is Pytorch implementation of DRE.
