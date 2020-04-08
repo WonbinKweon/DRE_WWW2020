@@ -7,7 +7,8 @@ pytorch 1.2.0 \
 scipy   1.3.0 \
 
 Run: \
-Download 
+Download u_implicit_5.zip (dataset, torch tensor) \
+Unzip it and run the jupyter notebook \
 
 
 
