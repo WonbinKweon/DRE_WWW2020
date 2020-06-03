@@ -1,6 +1,8 @@
 # DRE (WWW 2020)
 
-This is Pytorch implementation of Deep Rating Elicitation for New Users in Collaborative Filtering (WWW 2020)
+Kweon, W., Kang, S., Hwang, J. and Yu, H., 2020. Deep Rating Elicitation for New Users in Collaborative Filtering. In Proceedings of The Web Conference (WWW).
+
+This is Pytorch implementation of DRE.
 
 Version: \
 pytorch 1.2.0 \
