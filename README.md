@@ -1,6 +1,6 @@
 # DRE (WWW 2020)
 
-Kweon, W., Kang, S., Hwang, J. and Yu, H., 2020. Deep Rating Elicitation for New Users in Collaborative Filtering. In Proceedings of The Web Conference (WWW).\
+Wonbin Kweon, SeongKu Kang, Junyoung Hwang, and Hwanjo Yu. 2020. Deep Rating Elicitation for New Users in Collaborative Filtering. In Proceedings of The Web Conference (WWW).\
 paper: https://dl.acm.org/doi/10.1145/3366423.3380042
 
 This is Pytorch implementation of DRE.
